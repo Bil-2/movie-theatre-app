@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Oppenheimer",
+    "genre": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w500/v9F1s4M43jBMTGX2Y3dVo9b1P9N.jpg",
+    "description": "A brilliant physicist builds the atomic bomb."
+  },
+  {
+    "id": 2,
+    "title": "Avatar 2",
+    "genre": "Sci-Fi",
+    "poster": "https://image.tmdb.org/t/p/w500/2lY2eAs7U9qqNfsXAfFJQBWZN2U.jpg",
+    "description": "Return to Pandora in this stunning sequel."
+  },
+  {
+    "id": 3,
+    "title": "The Batman",
+    "genre": "Action",
+    "poster": "https://image.tmdb.org/t/p/w500/m6P6FQkVSdJdtPSptLREzE9DfC5.jpg",
+    "description": "The dark knight returns with vengeance."
+  }
+]
