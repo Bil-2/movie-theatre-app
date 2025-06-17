@@ -24,7 +24,5 @@ A modern, responsive movie ticket booking web application built using **React**,
 - 🌐 React Router DOM 7
 - 📦 QRCode.React
 
----
 
-## 📁 Folder Structure
 
